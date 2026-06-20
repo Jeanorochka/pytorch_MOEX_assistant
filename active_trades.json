@@ -1,0 +1,37 @@
+{
+  "active_trades": [
+    {
+      "trade_id": "7ebf7544-0619-42a5-9dae-84f673d773d9",
+      "created_at": "2026-06-17T14:21:02",
+      "account_id": "2235016631",
+      "ticker": "IMOEXF",
+      "class_code": "SPBFUT",
+      "instrument_id": "5bcff194-f10d-4314-b9ee-56b7fdb344fd",
+      "side": "BUY",
+      "qty": 52,
+      "entry_price": "1291680",
+      "tp_price": "1291688.5",
+      "sl_price": "1291675.0",
+      "sl_distance_points": "5.0",
+      "risk_percent": "0.20",
+      "risk_amount": "260.0",
+      "risk_model": "position",
+      "selected_capital_at_entry": "128376.46",
+      "position_value_at_entry": "67167360",
+      "point_value": "1",
+      "rr": "1.70",
+      "tp_enabled": true,
+      "tp_stop_id": "",
+      "sl_stop_id": "",
+      "entry_portfolio": "128376.46",
+      "entry_slice": "aggregated/1",
+      "entry_split_enabled": false,
+      "entry_split_count": null,
+      "entry_split_mode": "без дробления",
+      "entry_parent_qty": 52,
+      "entry_child_requested_qty": 52,
+      "entry_order_ids": "2033126329813297347",
+      "managed_external": false
+    }
+  ]
+}
